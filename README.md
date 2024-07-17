@@ -1,5 +1,3 @@
-﻿# Finans-Dashboard
-
 # Finansal Dashboard Projesi
 
 Bu proje, finansal verileri yönetmek ve görselleştirmek için geliştirilen bir dashboard uygulamasıdır. Uygulama, kullanıcıların finansal performansı izlemesine ve analiz etmesine olanak tanır.
@@ -24,12 +22,7 @@ Bu proje, finansal verileri yönetmek ve görselleştirmek için geliştirilen b
 
 1. **Node.js ve Express.js kullanarak RESTful API geliştirme**
 2. **MongoDB veritabanı kullanımı ve Mongoose ORM entegrasyonu**
-3. **API dokümantasyonu (Swagger/OpenAPI)**
-4. **Güvenlik önlemleri (input validasyonu, sanitizasyon)**
-5. **Finansal verilerin işlenmesi ve analiz edilmesi**
-
-### Dashboard Ekran Görüntüsü
-![Dashboard Screenshot](./client/src/assets/finansaldashboardphoto.png)
+3. **Finansal verilerin işlenmesi ve analiz edilmesi**
 
 ## Proje Yapısı
 
@@ -88,6 +81,11 @@ Bu proje, finansal verileri yönetmek ve görselleştirmek için geliştirilen b
     http://localhost:3000
     ```
 
+## Görseller
+
+### Dashboard Ekran Görüntüsü
+![Dashboard Screenshot](./client/src/assets/finansaldashboardphoto.png)
+
 ## Katkıda Bulunanlar
 
 - **Talha Şekerci**
@@ -95,4 +93,3 @@ Bu proje, finansal verileri yönetmek ve görselleştirmek için geliştirilen b
 ## Lisans
 
 Bu proje MIT Lisansı kapsamında lisanslanmıştır.
-
