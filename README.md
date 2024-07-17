@@ -28,6 +28,9 @@ Bu proje, finansal verileri yönetmek ve görselleştirmek için geliştirilen b
 4. **Güvenlik önlemleri (input validasyonu, sanitizasyon)**
 5. **Finansal verilerin işlenmesi ve analiz edilmesi**
 
+### Dashboard Ekran Görüntüsü
+![Dashboard Screenshot](./frontend/src/assets/finansaldashboardphoto.png)
+
 ## Proje Yapısı
 
 ### Backend
